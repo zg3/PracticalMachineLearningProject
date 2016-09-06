@@ -1,4 +1,4 @@
-# ##Activity Quality Prediction using Weight Lifting Exercise Dataset
+# Activity Quality Prediction using Weight Lifting Exercise Dataset
 
 By: ZG
 
